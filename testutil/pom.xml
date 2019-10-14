@@ -59,7 +59,7 @@
 		<dependency>
 			<groupId>com.github.junrar</groupId>
 			<artifactId>junrar</artifactId>
-			<version>0.6-SNAPSHOT</version>
+			<version>1.0.1</version>
 		</dependency>
 	</dependencies>
 </project>
